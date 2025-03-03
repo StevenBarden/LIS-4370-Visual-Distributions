@@ -1,3 +1,13 @@
+Visualizing Data Distributions in Y R
+
+LIS-4370 - Module # 7 assignment  
+
+https://github.com/StevenBarden/LIS-4370-Visual-Distributions/
+
+https://outlync.wordpress.com/2025/03/03/visualizing-data-distributions-in-r/
+
+https://usflearn.instructure.com/courses/1934094/assignments/17630319
+
 # LIS-4370-Visual-Distributions
 https://outlync.wordpress.com/2025/03/03/visualizing-data-distributions-in-r/
 
