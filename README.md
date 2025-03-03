@@ -8,7 +8,6 @@ https://outlync.wordpress.com/2025/03/03/visualizing-data-distributions-in-r/
 
 https://usflearn.instructure.com/courses/1934094/assignments/17630319
 
-# LIS-4370-Visual-Distributions
 https://outlync.wordpress.com/2025/03/03/visualizing-data-distributions-in-r/
 
 # Visual Distribution Analysis in R
