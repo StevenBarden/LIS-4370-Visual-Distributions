@@ -1,4 +1,4 @@
-Visualizing Data Distributions in Y R
+# Visualizing Data Distributions in R
 
 LIS-4370 - Module # 7 assignment  
 
